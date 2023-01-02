@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Território da Congregação",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
